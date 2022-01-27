@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Txt_simulate">Botão de simulação de partidas</string>
+    <string name="txt_home_team">Imagem do time mandante</string>
+    <string name="txt_AwayTeam">Time visitante</string>
+    <string name="error_api">Unexpected error.</string>
+</resources>

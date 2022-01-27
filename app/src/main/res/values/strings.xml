@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simulator</string>
+    <string name="Txt_simulate">Match simulator button</string>
+    <string name="txt_home_team">home team </string>
+    <string name="txt_Versus" translatable="false">x</string>
+    <string name="txt_AwayTeam">Away team</string>
+    <string name="error_api">Unexpected error.</string>
+</resources>
